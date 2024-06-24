@@ -22,4 +22,3 @@ Develop your character with a skill-based progression system. Earn experience th
 - **Build:** Use gathered resources to construct shelters, crafting stations, and defensive structures.
 - **Survive:** Manage your health carefully during combat encounters and ensure you have enough supplies to endure the challenges ahead.
 
-![Game Screenshot](images/screenshot.png)
